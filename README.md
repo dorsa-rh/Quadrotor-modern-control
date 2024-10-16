@@ -40,6 +40,5 @@ The goal of the project is to control the orientation and position of the quadro
 
 ## Visuals
 
-![Trajectory Simulation](path-to-your-image)
-
-[Watch the Simulation Video]([link-to-your-video](https://github.com/dorsa-rh/Quadrotor-modern-control/blob/main/result.MP4))
+- **Trajectory Simulation**: ![Trajectory Simulation Results](https://github.com/dorsa-rh/Quadrotor-modern-control/blob/main/3d%20simulation%20trajectory.png)
+- **Watch the simulation video**: [Watch the video](https://github.com/dorsa-rh/Quadrotor-modern-control/blob/main/result.MP4)
